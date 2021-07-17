@@ -2,8 +2,10 @@
 - 🔐 I’m interested in CyberSecurity
 - 🗡️ I’m currently learning Phyton, JavaScript, and Cpp
 
+
 [![danrynr's GitHub stats](https://github-readme-stats.vercel.app/api?username=danrynr&show_icons=true&theme=tokyonight)](https://github.com/danrynr/github-readme-stats)
 
+[![danrynr's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=danrynr)](https://github.com/danrynr/github-readme-stats)
 
 
 <!---
