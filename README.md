@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danrynr
 - 🔐 I’m interested in CyberSecurity
-- 🗡️ I’m currently learning Phyton, JavaScript, and Cpp
+- 🗡️ I’m currently learning Phyton, JavaScript, and Shell
 - 🥎 I use Linux on daily basis
 
 ## My Github Stats
