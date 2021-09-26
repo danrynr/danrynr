@@ -3,10 +3,8 @@
 - 🗡️ Love JS, cpp, python, and java.
 - 🥎 I use Linux on daily basis
 
-## My Github Stats
+## Github Statistics
 [![danrynr's GitHub stats](https://github-readme-stats.vercel.app/api?username=danrynr&show_icons=true&theme=tokyonight)](https://github.com/danrynr/github-readme-stats)
-
-## My Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danrynr&layout=compact&theme=tokyonight)](https://github.com/danrynr/github-readme-stats)
 
 
