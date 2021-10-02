@@ -2,6 +2,9 @@ Hi, Iam **Daniel**.
 - I'm currently learning about Cybersecurity and Machine Learning
 - Love C++, Javascript, and Python
 
+**Certication** \
+- [Github](https://www.dicoding.com/certificates/KEXL37JDWPG2)
+
 **Github Statistics**\
 [![danrynr's GitHub stats](https://github-readme-stats.vercel.app/api?username=danrynr&show_icons=true&theme=shades-of-purple)](https://github.com/danrynr/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danrynr&layout=compact&theme=shades-of-purple)](https://github.com/danrynr/github-readme-stats)
