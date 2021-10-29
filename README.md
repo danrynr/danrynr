@@ -2,7 +2,7 @@ Hi, Iam **Daniel**.
 - I'm currently learning about Cybersecurity and Machine Learning
 - Love C++, Javascript, and Python
 
-**Certication**
+**Certification**
 - [Github](https://www.dicoding.com/certificates/KEXL37JDWPG2)
 
 **Github Statistics**\
