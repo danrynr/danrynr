@@ -18,7 +18,7 @@
 
 <br>
 <div align="center">
-  <h3>🔧Languages & Tools</h3>
+  <h3>Languages & Tools</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40em"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40em"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40em"/>
