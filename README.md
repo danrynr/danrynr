@@ -1,6 +1,10 @@
-Hi, Iam **Daniel**.
-- I'm currently learning about Cybersecurity and Machine Learning
-- Love C++, Javascript, and Python
+
+<div align="center">
+<h3>Hi there 👋</h3>
+<p>Welcome to my profile</p>
+<p>I'm currently learning about Cybersecurity and Machine Learning</p>
+</div>
+
 
 **Certification**
 - [Github](https://www.dicoding.com/certificates/KEXL37JDWPG2)
@@ -12,26 +16,28 @@ Hi, Iam **Daniel**.
 
 <br>
 
-##**Languages & Tools**
+**Languages & Tools**
 <br>
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50em"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50em"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50em"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50em"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50em">
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40em"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40em"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40em"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40em"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40em">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50em"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50em"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50em"/>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40em"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40em"/>
+</div>
 
 
 
 **Reach me on**
-- [Linkedin](https://www.linkedin.com/in/danielreynard/)
-- daniel.reynard.k@gmail.com
+<p align="center">
+<a href="https://www.linkedin.com/in/danielreynard/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40em"/></a>
+<a mailto="daniel.reynard.k@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="40em"/></a>
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+</p>
+
 
 <!---
 danrynr/danrynr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
