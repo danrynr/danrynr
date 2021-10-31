@@ -6,8 +6,8 @@ Hi, Iam **Daniel**.
 - [Github](https://www.dicoding.com/certificates/KEXL37JDWPG2)
 
 **Github Statistics**\
-[![danrynr's GitHub stats](https://github-readme-stats.vercel.app/api?username=danrynr&show_icons=true&theme=shades-of-purple)](https://github.com/danrynr/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danrynr&layout=compact&theme=shades-of-purple)](https://github.com/danrynr/github-readme-stats)
+[![danrynr's GitHub stats](https://github-readme-stats.vercel.app/api?username=danrynr&show_icons=true&theme=dark)](https://github.com/danrynr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danrynr&layout=compact&theme=dark)](https://github.com/danrynr/github-readme-stats)
 
 **Languages**\
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
