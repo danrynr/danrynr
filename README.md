@@ -32,7 +32,7 @@
 <div align="center">
   <h3>Contact Me!</h3>
   <a href="https://www.linkedin.com/in/danielreynard/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40em"/></a>
-  <a mailto="daniel.reynard.k@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="40em"/></a>
+  <a href="mailto:daniel.reynard.k@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="40em"/></a>
 </div>
 
 
