@@ -35,7 +35,7 @@
   <a href="mailto:daniel.reynard.k@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="40em"/></a>
 </div>
 <div align="center">
-  <a href="https://app.daily.dev/danielreynard"><img src="https://api.daily.dev/devcards/f9be0d44f175430d9594417dca3f818e.png?r=xwy" width="320" alt="Daniel Reynard's Dev Card"/></a>
+  <a href="https://app.daily.dev/danrynr"><img src="https://api.daily.dev/devcards/f9be0d44f175430d9594417dca3f818e.png?r=obx" width="400" alt="Daniel Reynard's Dev Card"/></a>
 </div>
 <!---
 danrynr/danrynr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
