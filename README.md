@@ -35,6 +35,7 @@
   <a href="mailto:daniel.reynard.k@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="40em"/></a>
 </div>
 
+<a href="https://app.daily.dev/danielreynard"><img src="https://api.daily.dev/devcards/f9be0d44f175430d9594417dca3f818e.png?r=xwy" width="400" alt="Daniel Reynard's Dev Card"/></a>
 
 <!---
 danrynr/danrynr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
