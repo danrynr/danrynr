@@ -12,7 +12,7 @@
 
 <div align="center">
   <h3>Github Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=danrynr&show_icons=true&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=danrynr&show_icons=true&theme=dark" style="float: right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danrynr&layout=compact&theme=dark">
 </div>
 
@@ -35,6 +35,7 @@
   <a href="mailto:daniel.reynard.k@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="40em"/></a>
 </div>
 <div align="center">
+  <h3>Daily Dev</h3>
   <a href="https://app.daily.dev/danrynr"><img src="https://api.daily.dev/devcards/f9be0d44f175430d9594417dca3f818e.png?r=obx" width="200" alt="Daniel Reynard's Dev Card"/></a>
 </div>
 <!---
