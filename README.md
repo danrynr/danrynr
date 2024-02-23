@@ -12,7 +12,27 @@ Welcome to my profile!
 
 ## Some tools I use
 
-[![My Skills](https://skillicons.dev/icons?i=github,gitlab,git,bash,java,py,linux,aws,gcp,docker,k8s,jenkins,ansible,graphql,mysql,postgresql,supabase,regex,js,html,css,nodejs,idea,vim,vscode,bots,discord,figma&theme=dark)](https://skillicons.dev/)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,git,bash,aws,gcp,docker,k8s,jenkins,regex,vim,md,idea,vscode,figma,githubactions,yarn&perline=8&theme=dark">
+  </a>
+</p>
+
+## I write code in
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,js,sh&perline=5&theme=dark">
+  </a>
+</p>
+
+## Others
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,graphql,mysql,postgresql,supabase,nodejs,html,css&theme=dark">
+  </a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danrynr/danrynr/output/github-contribution-grid-snake-dark.svg">
