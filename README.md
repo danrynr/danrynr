@@ -14,7 +14,7 @@ Welcome to my profile!
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,bash,aws,gcp,docker,k8s,jenkins,regex,vim,md,idea,vscode,figma,githubactions,yarn&perline=8&theme=dark">
+    <img src="https://skillicons.dev/icons?i=github,git,bash,linux,aws,gcp,docker,k8s,jenkins,regex,vim,md,idea,vscode,figma,githubactions,yarn&perline=8&theme=dark">
   </a>
 </p>
 
@@ -23,14 +23,6 @@ Welcome to my profile!
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,js,sh&perline=5&theme=dark">
-  </a>
-</p>
-
-## Others
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,graphql,mysql,postgresql,supabase,nodejs,html,css&theme=dark">
   </a>
 </p>
 
