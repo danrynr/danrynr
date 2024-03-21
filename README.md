@@ -1,5 +1,7 @@
 <div align="center">
 
+
+
   # Welcome 👋
 
   CS Student who loves Networking, Infrastructure, and Cybersecurity.
@@ -7,6 +9,9 @@
 
   <span style="color:red;">*- There is more behind the curtain. -*</span>
 
+  <div>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=danrynr.danrynr">
+  </div>
 
   ## My performance
 
@@ -20,7 +25,7 @@
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,java,js,sh,github,git,bash,linux,aws,gcp,docker,k8s,jenkins,regex,vim,md,idea,vscode,figma,githubactions,yarn&perline=12&theme=dark">
+      <img src="https://skillicons.dev/icons?i=py,java,js,github,git,bash,linux,aws,gcp,docker,k8s,jenkins,regex,vim,md,idea,vscode,figma,githubactions,yarn&perline=12&theme=dark">
     </a>
   </p>
 
