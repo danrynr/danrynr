@@ -2,7 +2,7 @@
 
 # Welcome 👋
 
-CS Student who loves Networking, Infrastructure, and Cybersecurity.
+CS Student who loves Networking, Software, Infrastructure, and Cybersecurity.
 
 <span style="color:red;">_- There is more behind the curtain. -_</span>
 
