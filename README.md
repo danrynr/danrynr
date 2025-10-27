@@ -4,7 +4,7 @@
 
 CS Student who loves Networking, Software, Infrastructure, and Cybersecurity.
 
-<span style="color:red;">_- There is more behind the curtain. -_</span>
+<span style="color:red;">_- There's more behind the curtain. -_</span>
 
   
 
