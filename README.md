@@ -29,6 +29,7 @@ CS Student who loves Networking, Software, Infrastructure, and Cybersecurity.
 
 [![](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&labelColor=black)]()
 [![](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&labelColor=black)]()
+[![](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=go&labelColor=black)]()
 [![](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&labelColor=black)]()
 [![](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash&labelColor=black)]()
 
